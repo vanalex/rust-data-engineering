@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fruit-salad-cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hashmap-count" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linked-list-fruit-salad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vecdeque-fruit-salad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vector-fruit-salad" vcs="Git" />
+  </component>
+</project>
